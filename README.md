@@ -10,11 +10,9 @@ Tiny, readable PyTorch Lightning GAN template — DCGAN-style generator + spectr
 
 ## Demo
 
-**Training example:** `100_epochs_training_results.mp4` (included).
-If your viewer doesn't play MP4, convert it to GIF or open the file directly.
+**Training example:** `100_epochs_training_results.gif` (included).
 
-
-<video src="100_epochs_training_results.mp4" controls width="640">Download MP4: 100_epochs_training_results.mp4</video>
+![100 Epochs Training](100_epochs_training_results.gif)
 
 
 ## Quick start
